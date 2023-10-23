@@ -18,7 +18,7 @@ Features
 
 Installation
 
-    Clone the Repository:https://github.com/vikalp026var/Recommender_System
+    Clone the https://github.com/vikalp026var/Book_Recommender_System
 
 Environement Making :
     conda create -n [your-environment-name] python==3.7 -y 
