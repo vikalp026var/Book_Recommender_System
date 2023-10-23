@@ -1,0 +1,5 @@
+# Ignored Directories
+.build/
+.dist/
+.rec/
+.src/
